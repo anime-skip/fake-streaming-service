@@ -6,7 +6,8 @@ This application is a basic website with a video player.
 
 - GNU `make`
 - `docker`
-- Copy some video file to `./video.mp4` for the player to load
+- Copy some video file to `src/video.mp4` for the player to load
+- Run `make`
 
 ## Running Locally
 
