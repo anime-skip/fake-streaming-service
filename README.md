@@ -4,11 +4,11 @@ This application is a basic website with a video player.
 
 ## Setup
 
-- `make`
+- GNU `make`
 - `docker`
-- Some video file at `src/video.mp4`
+- Copy some video file to `./video.mp4` for the player to load
 
-## Usage
+## Running Locally
 
 ```bash
 # Just build the image
